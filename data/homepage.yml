@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "HIDRATANTES Y CREMAS"
-  content : "Hidratación revitalizante y revitalizante de día y de noche"
+  title : "Crema de día antiedad que restaura el volumen perdido de la piel del rostro."
+  content : "Para combatir eficazmente los cambios relacionados con la edad en la piel del rostro, es necesario, en primer lugar, pensar profundamente. Los científicos de hoy han llegado a la conclusión de que la clave para la juventud y la firmeza de la piel radica en una hidratación intensa, que apoya el metabolismo natural."
   image : "images/banner.png"
   # button
   button:
@@ -17,16 +17,15 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "La crema hidratante Hydreane Legere de la marca francesa de cosmética médica La Roche-Posay está diseñada para reducir la sensibilidad de la piel y eliminar el problema de la deshidratación.La fórmula revolucionaria de la crema presentada contiene exclusivos agentes hidrofijantes que penetran en las capas más profundas de la epidermis y proporcionan un aumento en el nivel de saturación de humedad. Además, los hidrofixers en combinación con agua termal calman y relajan la piel, reducen su sensibilidad.
-La consistencia ultraligera y sin aceite de Hydreane Legere está formulada teniendo en cuenta las características"
+  title : "Acerca de nuestro producto"
+  content : "Un súper humectante reconocido es el ácido hialurónico, que puede unir grandes cantidades de agua, evitando así la sequedad, la opacidad y las arrugas."
   image : "images/about.png"
 
 
 ######################## raw material #######################
 material:
   enable : true
-  title : "Ingredients Of Our Products"
+  title : "Ingredientes de nuestro producto"
   subtitle : "natural"
   materialItem:
     # material item loop
@@ -52,7 +51,7 @@ material:
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Advantages Of Using <br> Our Product"
+  title : "Beneficios de usar nuestro producto"
   subtitle : "Consistencia de crema ultraligera y sin aceite"
   image : "images/advantage.png"
   advantageList:
@@ -68,9 +67,8 @@ advantage:
 ######################## Promo Video ##########################
 video:
   enable : true
-  title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  title : "Cómo utilizar el producto?"
+  content : "Aplicar la cantidad necesaria de crema en el rostro con suaves movimientos de masaje."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -85,32 +83,32 @@ products:
 ########################## Testimonial ########################
 testimonial:
   enable : true
-  title : "What People Are Saying <br> About Our Product"
+  title : "Lo que dice la gente sobre nuestro producto"
   testimonialItem:
     # testimonial item loop
-    - name : "Angela Perara"
+    - name : "Florentina Villca"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Crema bastante buena. Olor agradable y ligero, económico de usar, la piel es agradable al tacto después de su uso. Lo uso por la mañana y por la noche, la piel mixta se ha vuelto más mate."
+      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventilo"
+    - name : "Ana Pankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "¡Satisfecho con la crema! He estado usando esta serie durante mucho tiempo. La crema es ligera, no deja brillos en el rostro con mi piel mixta. Deja una sensación de ligereza."
+      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
-    - name : "john Doe"
+    - name : "Gektor Sucso"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Literalmente suficientes guisantes. Ligero, bien absorbido."
+      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventila"
+    - name : "Kalista Tankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Voy a comprar por segunda vez y compraré más. Muy buena crema, perfecta, el estado de la piel ha mejorado."
+      content : "Se me acercó y realmente le gustó. La piel posterior es aterciopelada."
       rating : "four" # rating star, one to five
