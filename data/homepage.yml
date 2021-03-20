@@ -76,7 +76,7 @@ video:
 ######################## Products #############################
 products:
   enable : true
-  title : "Products List"
+  title : "Hoja de producto"
   # product item comes from "content/products"
 
 
